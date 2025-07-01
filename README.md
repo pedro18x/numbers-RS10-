@@ -1,9 +1,3 @@
-# Numbers - Sorteador de Números
-
-<div align="center">
-  <img src="./images/logo.svg" alt="logo Numbers" width="120"/>
-</div>
-
 ## 📖 Sobre o Projeto
 
 O **Numbers** é um aplicativo web simples e intuitivo para sorteio de números, desenvolvido como desafio do curso Fullstack da Rocketseat. O objetivo é permitir que o usuário realize sorteios personalizados, definindo o intervalo e a quantidade de números a serem sorteados.
