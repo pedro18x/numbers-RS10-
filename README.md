@@ -58,4 +58,4 @@ O **Numbers** é um aplicativo web simples e intuitivo para sorteio de números,
 
 ---
 
-Desenvolvido por [Pedro Ernesto](https://github.com/pedroernestovogado)
+Desenvolvido por [Pedro Ernesto](https://github.com/pedroernestovogado) e [Rocketseat](https://app.rocketseat.com.br/)
